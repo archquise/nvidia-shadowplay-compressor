@@ -1,4 +1,7 @@
 # nvidia-shadowplay-compressor
+
+==== [Русская версия README](README_RU.md) ====
+
 Three simple .bat scripts for Windows that compress your game records and make them much easier to share 
 
 | Compress level    |    Size   |
